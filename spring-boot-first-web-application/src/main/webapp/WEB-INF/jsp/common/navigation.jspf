@@ -1,0 +1,15 @@
+<nav role="navigation" class="navbar navbar-light bg-light" >
+    <div class="">
+        <a href="https://www.codesessive.com/" class="navbar-brand" style="color: black" >Codesessive</a>
+    </div>
+    <div class="navbar-collapse">
+        <ul class="nav navbar-nav" >
+            <li><a href="/" style="color: black" >Home</a></li>
+            <li><a href="/list-todos" style="color: black" >Todos</a></li>
+
+        </ul>
+        <ul class="nav navbar-nav navbar-right" >
+            <li><a href="/logout" style="color: black" >Logout</a></li>
+        </ul>
+    </div>
+</nav>
